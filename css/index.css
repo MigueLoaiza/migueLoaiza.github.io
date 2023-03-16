@@ -451,7 +451,7 @@
     min-height: 799.9623455000002px;
     background: -webkit-gradient(linear, left center, right center, from(#ED00B5), color-stop(68%, #75003E));
     background: -webkit-linear-gradient(left, #ED00B5, #75003E 68%);
-    background: linear-gradient(to right, #c34300, #943300 68%);
+    background: linear-gradient(to right,#b73800 ,#a43200 68%);
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FFED00B5, endColorstr=#FF75003E, GradientType=1);
     -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFED00B5', endColorstr='#FF75003E', GradientType=1)";
     padding-bottom: 0px;
